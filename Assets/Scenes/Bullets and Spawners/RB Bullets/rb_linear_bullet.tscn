@@ -9,6 +9,7 @@ radius = 7.31707
 [node name="RBLinearBullet" type="Area2D"]
 top_level = true
 scale = Vector2(1.64, 1.64)
+monitorable = false
 script = ExtResource("1_wqsmr")
 
 [node name="OuterSprite" type="Sprite2D" parent="."]

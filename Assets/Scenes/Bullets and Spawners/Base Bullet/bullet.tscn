@@ -13,6 +13,7 @@ texture_filter = 2
 scale = Vector2(1.64, 1.64)
 collision_layer = 4
 collision_mask = 2
+monitorable = false
 script = ExtResource("1_cbpff")
 
 [node name="OuterSprite" type="Sprite2D" parent="."]

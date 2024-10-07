@@ -1,0 +1,110 @@
+ea4bc82a6ad023ab7ee23ee620429895
+::res://::1728261880
+::res://addons/::1728158284
+::res://addons/better-terrain/::1728158393
+BetterTerrain.gd::GDScript::-1::1728158284::0::1::::<>Node<>::
+BetterTerrainData.gd::GDScript::-1::1728158284::0::1::::<>RefCounted<>::
+icon.svg::CompressedTexture2D::7013481173950089383::1728158284::1728158393::1::::<><>::
+plugin.cfg::TextFile::-1::1728158284::0::1::::<><>::
+TerrainPlugin.gd::GDScript::-1::1728158284::0::1::::<>EditorPlugin<>::
+Watcher.gd::GDScript::-1::1728158284::0::1::::<>Node<>::
+::res://addons/better-terrain/editor/::1728158284
+Dock.gd::GDScript::-1::1728158284::0::1::::<>Control<>::
+Dock.tscn::PackedScene::7508258384040454013::1728158284::0::1::::<><>::res://addons/better-terrain/editor/Dock.gd<>uid://c6lxq2y7mpb18::::res://addons/better-terrain/icons/EditType.svg<>uid://y3xy6qdckht6::::res://addons/better-terrain/icons/Replace.svg<>uid://bo2cjv08jkvf8::::res://addons/better-terrain/icons/EditTerrain.svg<>uid://b0es228gfcykd::::res://addons/better-terrain/icons/Warning.svg<>res://addons/better-terrain/editor/TileView.gd<>uid://co6gwwmog0pjy::::res://addons/better-terrain/icons/EditSymmetry.svg<>uid://cs4mdmluiydj6::::res://addons/better-terrain/icons/ShuffleRandom.svg<>uid://5hm3bfj3dvej::::res://addons/better-terrain/icons/SymmetryMirror.svg<>uid://dqmc1jp56or8m::::res://addons/better-terrain/icons/SymmetryFlip.svg<>uid://cxoewno1cefua::::res://addons/better-terrain/icons/SymmetryReflect.svg<>uid://baxhjy28r1iqj::::res://addons/better-terrain/icons/SymmetryRotateClockwise.svg<>uid://csbwdkr6bc2db::::res://addons/better-terrain/icons/SymmetryRotateCounterClockwise.svg<>uid://8mcycyl3e66r::::res://addons/better-terrain/icons/SymmetryRotate180.svg<>uid://b7fx4mk18lmls::::res://addons/better-terrain/icons/SymmetryRotateAll.svg<>uid://cyjra4g05dwh::::res://addons/better-terrain/icons/SymmetryAll.svg
+TerrainEntry.gd::GDScript::-1::1728158284::0::1::::<>PanelContainer<>::
+TerrainEntry.tscn::PackedScene::1461025636277516956::1728158284::0::1::::<><>::res://addons/better-terrain/editor/TerrainEntry.gd<>uid://kmypxsqhynyv::::res://addons/better-terrain/icons/Decoration.svg
+TerrainProperties.gd::GDScript::-1::1728158284::0::1::::<>ConfirmationDialog<>::
+TerrainProperties.tscn::PackedScene::357726751365131127::1728158284::0::1::::<><>::res://addons/better-terrain/editor/TerrainProperties.gd<>uid://d1h1p7pcwdnjk::::res://addons/better-terrain/icons/MatchTiles.svg<>uid://dfemy1g6okwlv::::res://addons/better-terrain/icons/MatchVertices.svg<>uid://1yr6yruwl63u::::res://addons/better-terrain/icons/NonModifying.svg
+TerrainUndo.gd::GDScript::-1::1728158284::0::1::::<>Node<>::
+TileView.gd::GDScript::-1::1728158284::0::1::::<>Control<>::
+::res://addons/better-terrain/icons/::1728158393
+Decoration.svg::CompressedTexture2D::728146200744822825::1728158284::1728158393::1::::<><>::
+EditSymmetry.svg::CompressedTexture2D::5819885652813485422::1728158284::1728158393::1::::<><>::
+EditTerrain.svg::CompressedTexture2D::3424941343238122335::1728158284::1728158393::1::::<><>::
+EditType.svg::CompressedTexture2D::6972830195672291665::1728158284::1728158393::1::::<><>::
+MatchTiles.svg::CompressedTexture2D::9000229762706739432::1728158284::1728158393::1::::<><>::
+MatchVertices.svg::CompressedTexture2D::7519236619556175219::1728158284::1728158393::1::::<><>::
+NonModifying.svg::CompressedTexture2D::1875543836935013824::1728158284::1728158393::1::::<><>::
+Replace.svg::CompressedTexture2D::1743775827393902993::1728158284::1728158393::1::::<><>::
+ShuffleRandom.svg::CompressedTexture2D::6096842117226827357::1728158284::1728158393::1::::<><>::
+SymmetryAll.svg::CompressedTexture2D::190499609911313151::1728158284::1728158393::1::::<><>::
+SymmetryFlip.svg::CompressedTexture2D::8307224444250876562::1728158284::1728158393::1::::<><>::
+SymmetryMirror.svg::CompressedTexture2D::2120894620255775389::1728158284::1728158393::1::::<><>::
+SymmetryReflect.svg::CompressedTexture2D::6416368920669728444::1728158284::1728158393::1::::<><>::
+SymmetryRotate180.svg::CompressedTexture2D::2341168808802443883::1728158284::1728158393::1::::<><>::
+SymmetryRotateAll.svg::CompressedTexture2D::4644234494691419488::1728158284::1728158393::1::::<><>::
+SymmetryRotateClockwise.svg::CompressedTexture2D::2434343766924226313::1728158284::1728158393::1::::<><>::
+SymmetryRotateCounterClockwise.svg::CompressedTexture2D::6039646614752542611::1728158284::1728158393::1::::<><>::
+Warning.svg::CompressedTexture2D::4150541877353778839::1728158284::1728158393::1::::<><>::
+::res://addons/better-terrain/icons/paint-symmetry/::1728158393
+SymmetryAll.svg::CompressedTexture2D::578261579705196512::1728158284::1728158393::1::::<><>::
+SymmetryFlip.svg::CompressedTexture2D::3615622518971111208::1728158284::1728158393::1::::<><>::
+SymmetryMirror.svg::CompressedTexture2D::8224266660976309009::1728158284::1728158393::1::::<><>::
+SymmetryReflect.svg::CompressedTexture2D::9117909852827067982::1728158284::1728158393::1::::<><>::
+SymmetryRotate180.svg::CompressedTexture2D::6600547332824561923::1728158284::1728158393::1::::<><>::
+SymmetryRotateAll.svg::CompressedTexture2D::2548945952901972738::1728158284::1728158393::1::::<><>::
+SymmetryRotateClockwise.svg::CompressedTexture2D::7451866298790438917::1728158284::1728158393::1::::<><>::
+SymmetryRotateCounterClockwise.svg::CompressedTexture2D::925101722161386425::1728158284::1728158393::1::::<><>::
+::res://addons/Todo_Manager/::1728158284
+ColourPicker.gd::GDScript::-1::1728158284::0::1::::<>HBoxContainer<>::
+Current.gd::GDScript::-1::1728158284::0::1::::<>Panel<>::
+Dock.gd::GDScript::-1::1728158284::0::1::::<>Control<>::
+Pattern.gd::GDScript::-1::1728158284::0::1::::<>HBoxContainer<>::
+plugin.cfg::TextFile::-1::1728158284::0::1::::<><>::
+plugin.gd::GDScript::-1::1728158284::0::1::::<>EditorPlugin<>::
+Project.gd::GDScript::-1::1728158284::0::1::::<>Panel<>::
+todo.cfg::TextFile::-1::1728158284::0::1::::<><>::
+todoItem_class.gd::GDScript::-1::1728158284::0::1::::<>RefCounted<>::
+todo_class.gd::GDScript::-1::1728158284::0::1::::<>RefCounted<>::
+::res://addons/Todo_Manager/doc/::1728158284
+::res://addons/Todo_Manager/doc/images/::1728158393
+example1.png::CompressedTexture2D::8063086250666186557::1728158284::1728158393::1::::<><>::
+example2.png::CompressedTexture2D::6526488493568847321::1728158284::1728158393::1::::<><>::
+Instruct1.png::CompressedTexture2D::6212603871585785468::1728158284::1728158393::1::::<><>::
+Instruct2.png::CompressedTexture2D::3074382899529059773::1728158284::1728158393::1::::<><>::
+Instruct3.png::CompressedTexture2D::7363394875220643328::1728158284::1728158393::1::::<><>::
+Instruct4.png::CompressedTexture2D::5635041097581552798::1728158284::1728158393::1::::<><>::
+Instruct5.png::CompressedTexture2D::2655775372912265538::1728158284::1728158393::1::::<><>::
+TODO_Manager_Logo.png::CompressedTexture2D::124409848708206303::1728158284::1728158393::1::::<><>::
+::res://addons/Todo_Manager/UI/::1728158284
+ColourPicker.tscn::PackedScene::2957809393656723737::1728158284::0::1::::<><>::res://addons/Todo_Manager/ColourPicker.gd
+Dock.tscn::PackedScene::4584442902745049483::1728158284::0::1::::<><>::res://addons/Todo_Manager/Dock.gd<>res://addons/Todo_Manager/Project.gd<>res://addons/Todo_Manager/Current.gd
+Pattern.tscn::PackedScene::4056048923411208166::1728158284::0::1::::<><>::res://addons/Todo_Manager/Pattern.gd
+::res://Assets/::1728158284
+::res://Assets/Misc/::1728158393
+capsule.png::CompressedTexture2D::6520169487828496665::1728158284::1728158393::1::::<><>::
+Circle.png::CompressedTexture2D::981475738610184435::1728158284::1728158393::1::::<><>::
+icon.svg::CompressedTexture2D::146204842820805825::1728158284::1728158393::1::::<><>::
+::res://Assets/Scenes/::1728158284
+::res://Assets/Scenes/Bullets and Spawners/::1728158284
+::res://Assets/Scenes/Bullets and Spawners/Base Bullet/::1728160527
+bullet.gd::GDScript::-1::1728160169::0::1::::Bullet<>Area2D<>::
+bullet.tscn::PackedScene::1709103835713607118::1728160527::0::1::::<><>::res://Assets/Scenes/Bullets and Spawners/Base Bullet/bullet.gd<>uid://n8o055odryil::::res://Assets/Misc/Circle.png
+::res://Assets/Scenes/Bullets and Spawners/RB Bullets/::1728160527
+rb_angle_bullet.gd::GDScript::-1::1728158284::0::1::::<>Bullet<>::
+rb_angle_bullet.tscn::PackedScene::3928844034382162967::1728160527::0::1::::<><>::res://Assets/Scenes/Bullets and Spawners/RB Bullets/rb_angle_bullet.gd<>uid://n8o055odryil::::res://Assets/Misc/Circle.png
+rb_linear_bullet.gd::GDScript::-1::1728158284::0::1::::<>Bullet<>::
+rb_linear_bullet.tscn::PackedScene::2691490550043720749::1728160527::0::1::::<><>::res://Assets/Scenes/Bullets and Spawners/RB Bullets/rb_linear_bullet.gd<>uid://n8o055odryil::::res://Assets/Misc/Circle.png
+::res://Assets/Scenes/Bullets and Spawners/Temp Bullets n stuff/::1728160527
+abstract_spawner.gd::GDScript::-1::1728158284::0::1::::AbstractSpawner<>Node2D<>::
+capsule_bullet.tscn::PackedScene::2073547244116257417::1728158284::0::1::::<><>::uid://cy5oied8w43ab::::res://Assets/Misc/capsule.png
+test_spawner.gd::GDScript::-1::1728158284::0::1::::<>AbstractSpawner<>::
+test_spawner.tscn::PackedScene::7595304789394922368::1728160527::0::1::::<><>::res://Assets/Scenes/Bullets and Spawners/Temp Bullets n stuff/test_spawner.gd
+::res://Assets/Scenes/Main/::1728160527
+main.tscn::PackedScene::5668702261410083013::1728160527::0::1::::<><>::uid://bn0bed0dtylob::::res://Assets/Scenes/Temp Player/player.tscn<>uid://gapsmra1jyuu::::res://Assets/Scenes/Stages/Temp Stage/temp_stage.tscn<>uid://dghhtbt3voh0s::::res://Assets/Scenes/Bullets and Spawners/Temp Bullets n stuff/test_spawner.tscn<>uid://bel1prjvvxyg0::::res://Assets/Scenes/Bullets and Spawners/RB Bullets/rb_linear_bullet.tscn<>uid://bv8fqtijv1f3l::::res://Assets/Scenes/Bullets and Spawners/RB Bullets/rb_angle_bullet.tscn
+::res://Assets/Scenes/Stages/::1728158284
+::res://Assets/Scenes/Stages/Temp Stage/::1728160527
+temp_stage.tscn::PackedScene::422076617586983108::1728160527::0::1::::<><>::uid://dx582tkl6hu5f::::res://Assets/Scenes/Stages/Temp Stage/TilesetTemplateGround.png<>uid://bpnrnhs60m30y::::res://Assets/Scenes/Stages/Temp Stage/TilesetTemplateWalls.png
+TilesetTemplateGround.png::CompressedTexture2D::8837589678505779033::1728158284::1728158393::1::::<><>::
+TilesetTemplateWalls.png::CompressedTexture2D::3467146050176499370::1728158284::1728158393::1::::<><>::
+::res://Assets/Scenes/Temp Player/::1728158393
+player.gd::GDScript::-1::1728158284::0::1::::<>CharacterBody2D<>::
+player.tscn::PackedScene::3350553151360216473::1728158284::0::1::::<><>::res://Assets/Scenes/Temp Player/States/player_default.gd<>uid://dnv1r1e4xaebe::::res://Assets/Scenes/Temp Player/TempPlayerSpritesheet.png<>res://Assets/Scenes/Temp Player/player.gd<>res://Assets/Singletons/state_machine.gd<>uid://n8o055odryil::::res://Assets/Misc/Circle.png
+TempPlayerSpritesheet.png::CompressedTexture2D::8116679324651979846::1728158284::1728158393::1::::<><>::
+::res://Assets/Scenes/Temp Player/States/::1728158284
+player_default.gd::GDScript::-1::1728158284::0::1::::PlayerDefault<>State<>::
+::res://Assets/Singletons/::1728158284
+state.gd::GDScript::-1::1728158284::0::1::::State<>Node<>::
+state_machine.gd::GDScript::-1::1728158284::0::1::::StateMachine<>Node<>::
+::res://Assets/Singletons/Autoload/::1728158284
+Globals.gd::GDScript::-1::1728158284::0::1::::<>Node<>::

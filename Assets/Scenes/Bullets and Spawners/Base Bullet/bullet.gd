@@ -19,8 +19,11 @@ func _ready() -> void:
 
 
 func clear_if_exited(max_distance: float) -> void:
+	# This doesn't actually free the bullets, just hides them and stops processing
 	if position.distance_to(origin) >= max_distance:
-		queue_free()
+		set_process(false)
+		set_physics_process(false)
+		hide()
 		Globals.bullet_count -= 1
 
 
